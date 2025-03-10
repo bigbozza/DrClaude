@@ -1,0 +1,1 @@
+"""Dr. Claude - A therapeutic journaling application with LLM integration."""
