@@ -169,6 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
 # Project-specific ignores
 /bin/
@@ -176,3 +177,7 @@ cython_debug/
 /lib/
 /lib64/
 /pyvenv.cfg
++lib64 
+=======
+>>>>>>> 20eb020ccfbd83cb0834e7cd986f8549e2566dc9
++lib64 
